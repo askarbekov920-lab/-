@@ -1,0 +1,7 @@
+{
+  "name": "Osmonaaly Sydyk: The First Historian",
+  "description": "An interactive digital tribute to Osmonaaly Sydykov, the pioneering Kyrgyz historian, featuring his life stories, works, and traditional Kyrgyz music.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
